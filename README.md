@@ -13,3 +13,6 @@
 8. Fundamentals of ML
 9. Data PreProcessing
 10. Training Models 
+
+
+https://colab.research.google.com/drive/1ICBhWRisk3-s9ONJu7vsUeDu_HWTZQhX?usp=sharing
