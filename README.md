@@ -13,3 +13,4 @@
 8. Fundamentals of ML
 9. Data PreProcessing
 10. Training Models 
+11. SVM
